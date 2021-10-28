@@ -1,0 +1,15 @@
+[
+    {
+        "name": "smart tv", "qty": 10, "initialstock": 1, "img": "/img/tv.jpg", "price": 1000, "description": "Descripcion de smart tv"
+    },
+    {
+        "name": "macbook", "qty": 8, "initialstock":1, "img": "/img/mac.jpg", "price": 2000, "description": "Descripcion de la Macbook "
+    },
+    {
+        "name": "smartphone", "qty": 8, "initialstock": 1, "img": "/img/celu.jpg", "price": 1500, "description": "Drescripcion del smartphone"
+    },
+    {
+        "name": "coffe machine", "qty": 7, "initialstock": 1, "img": "/img/cafe.jpg", "price": 800, "description": "Descripcion del coffe machine"
+    }
+
+]

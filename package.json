@@ -1,0 +1,23 @@
+{
+  "name": "api-pickle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiaruh/api-pickle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiaruh/api-pickle/issues"
+  },
+  "homepage": "https://github.com/kiaruh/api-pickle#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
