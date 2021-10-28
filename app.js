@@ -1,9 +1,6 @@
 const app = require('express')();
 const db = require('./db.json');
-
-app.set('port',process.env.PORT || 3001)
-
-app.listen(app.get('port'),() => console.log('Server start http://localhost:' +app.get('port')))
+let port = process.env.PORT || 3001
 
 app.get('/',(req,res)=>{
     res.status(200).send(
@@ -15,3 +12,5 @@ app.get('/',(req,res)=>{
 )
 
 app.get('/products', (req, res) => {res.status(200).send(db)})
+
+app.listen( port ,() => console.log(`Server start http://localhost:${port}`))
