@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/kiaruh/api-pickle#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "node": "^17.0.1"
   }
 }
