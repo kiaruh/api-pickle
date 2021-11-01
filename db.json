@@ -1,16 +1,16 @@
 {
    "products": [
     {
-        "name": "smart tv", "qty": 10, "initialstock": 1, "img": "/img/tv.jpg", "price": 1000, "description": "Descripcion de smart tv"
+        "id":"1", "category": "1" ,"name": "smart tv", "qty": 10, "initialstock": 1, "img": "/img/tv.jpg", "price": 1000, "description": "Descripcion de smart tv"
     },
     {
-        "name": "macbook", "qty": 8, "initialstock":1, "img": "/img/mac.jpg", "price": 2000, "description": "Descripcion de la Macbook "
+        "id":"2", "category": "1"  ,"name": "macbook", "qty": 8, "initialstock":1, "img": "/img/mac.jpg", "price": 2000, "description": "Descripcion de la Macbook "
     },
     {
-        "name": "smartphone", "qty": 8, "initialstock": 1, "img": "/img/celu.jpg", "price": 1500, "description": "Drescripcion del smartphone"
+        "id":"3", "category": "2"  ,"name": "smartphone", "qty": 8, "initialstock": 1, "img": "/img/celu.jpg", "price": 1500, "description": "Drescripcion del smartphone"
     },
     {
-        "name": "coffe machine", "qty": 7, "initialstock": 1, "img": "/img/cafe.jpg", "price": 800, "description": "Descripcion del coffe machine"
+        "id":"4", "category": "2"  ,"name": "coffe machine", "qty": 7, "initialstock": 1, "img": "/img/cafe.jpg", "price": 800, "description": "Descripcion del coffe machine"
     }
 
     ]
